@@ -30,8 +30,7 @@ limitations under the License.
         <V.org.apache.commons>1.21</V.org.apache.commons>
         <V.org.apache.httpcomponents>4.5.13</V.org.apache.httpcomponents>
         <V.org.apache.tika>2.9.3</V.org.apache.tika>
-        <V.org.apache.poi>5.2.2</V.org.apache.poi>
-        <V.org.jsoup>1.14.3</V.org.jsoup>
+        <V.org.apache.poi>5.4.0</V.org.apache.poi>
         <V.org.bouncycastle>1.78.1</V.org.bouncycastle>
 	</properties>
     <licenses>

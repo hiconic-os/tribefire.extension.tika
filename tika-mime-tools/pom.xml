@@ -42,6 +42,10 @@ limitations under the License.
                     <artifactId>*</artifactId>
                 </exclusion>
                 <exclusion>
+                    <groupId>org.apache.pdfbox</groupId>
+                    <artifactId>*</artifactId>
+                </exclusion>
+                <exclusion>
                     <groupId>org.apache.james</groupId>
                     <artifactId>apache-mime4j-dom</artifactId>
                 </exclusion>

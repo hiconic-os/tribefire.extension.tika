@@ -111,7 +111,7 @@ public class TikaMimeTypeDetector implements MimeTypeDetector {
 				}
 
 				temporaryResources = new TemporaryResources(); // responsible for temporary file(s)
-				TikaInputStream tis = TikaInputStream.get(is, temporaryResources); // does not need no closing
+				TikaInputStream tis = TikaInputStream.get(is, temporaryResources, null); // does not need no closing
 				org.apache.tika.mime.MediaType mediaType = this.detector.detect(tis, metadata);
 				String mimeType = mediaType.toString();
 				if (trace)

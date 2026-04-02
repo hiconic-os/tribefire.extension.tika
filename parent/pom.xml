@@ -25,6 +25,7 @@ limitations under the License.
 	    <!-- tika -->
         <V.com.braintribe.common>[2.0,2.1)</V.com.braintribe.common>
         <V.com.braintribe.testing>[2.0,2.1)</V.com.braintribe.testing>
+        <V.hiconic.platform.reflex>[1.0,1.1)</V.hiconic.platform.reflex>
         <V.com.fasterxml.jackson.core>2.18.2</V.com.fasterxml.jackson.core>
         <V.commons-io>2.11.0</V.commons-io>
         <V.org.apache.commons>1.21</V.org.apache.commons>

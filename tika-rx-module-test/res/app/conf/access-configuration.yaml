@@ -1,0 +1,7 @@
+accesses:
+  - !hiconic.rx.access.smood.model.configuration.SmoodAccess
+    accessId: main-access
+    displayName: Tika RX Test Access
+    resourceStorageId: test-file-storage
+    dataModelNames:
+      - com.braintribe.gm:basic-resource-model
